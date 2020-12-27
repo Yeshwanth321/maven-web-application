@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions. -- GitHub WebHook changed</h1>
-<h1 align="center"> Welcome to Mithun Software Solutions.</h1>
+<h1 align="center">govardhantech -- GitHub WebHook changed</h1>
+<h1 align="center"> Welcome to govardhantech</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
