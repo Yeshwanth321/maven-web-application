@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>maas</name>
-	      <url>http://15.207.116.44:8081/repository/maas/</url>
+	      <url>http://13.235.81.121:8081/repository/maas/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>govardhan snapshot</name>
-	      <url>http://15.207.116.44:8081/repository/comm/</url>
+	      <url>http://13.235.81.121:8081/repository/comm/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
