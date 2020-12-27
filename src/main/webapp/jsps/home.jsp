@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">govardhantech -- GitHub WebHook changed</h1>
+<h1 align="center">govardhanTech -- GitHub WebHook changed</h1>
 <h1 align="center"> Welcome to govardhantech</h1>
 <hr>
 <div style="text-align: center;">
