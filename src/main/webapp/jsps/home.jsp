@@ -19,7 +19,7 @@
 	<span style="font-weight: bold;">
 		halehalli
 		<br>
-		<a href="mailto:gova209805@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:gova209805@gmail.com">Mail to govardhantech</a>
 	</span>
 </div>
 <hr>
