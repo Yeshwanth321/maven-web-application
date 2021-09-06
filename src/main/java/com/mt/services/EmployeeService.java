@@ -18,7 +18,7 @@ public class EmployeeService {
 	
 	@RequestMapping(value = "/getEmployeeDetails", method = RequestMethod.GET)
 	@ResponseBody
-	public String uploadImage(HttpServletRequest request, HttpServletResponse response, HttpSession httpSession)
+	String uploadImage(HttpServletRequest request, HttpServletResponse response, HttpSession httpSession)
 			throws JSONException {
 
 		JSONObject js = new JSONObject();
